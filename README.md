@@ -24,7 +24,7 @@
 <br/>
 
 [![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-predictor--65n3.onrender.com-00C896?style=for-the-badge)](https://predictor-65n3.onrender.com)
-[![GitHub Repo](https://img.shields.io/badge/📂%20GitHub-Anandsavran/Predictor.com-181717?style=for-the-badge&logo=github)](https://github.com/Anandsavran/Predictor.com)
+[![GitHub Repo](https://img.shields.io/badge/📂%20GitHub-Anandsavarn/Predictor.com-181717?style=for-the-badge&logo=github)](https://github.com/Anandsavarn/Predictor.com)
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-anandsavarn.vercel.app-4da6ff?style=for-the-badge)](https://anandsavarn.vercel.app)
 
 </div>
@@ -54,7 +54,7 @@ Most trading simulators let you click "buy" and "sell" — but never explain **w
 | Link | Description |
 |---|---|
 | 🌐 [predictor-65n3.onrender.com](https://predictor-65n3.onrender.com) | Live deployed prototype |
-| 💻 [github.com/Anandsavran/Predictor.com](https://github.com/Anandsavran/Predictor.com) | Source code |
+| 💻 [github.com/Anandsavarn/Predictor.com](https://github.com/Anandsavarn/Predictor.com) | Source code |
 
 ---
 
@@ -373,7 +373,7 @@ UID: 12320597
 
 [![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-predictor--65n3.onrender.com-00C896?style=for-the-badge)](https://predictor-65n3.onrender.com)
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-anandsavarn.vercel.app-4da6ff?style=for-the-badge)](https://anandsavarn.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Anandsavran-181717?style=for-the-badge&logo=github)](https://github.com/Anandsavran)
+[![GitHub](https://img.shields.io/badge/GitHub-Anandsavarn-181717?style=for-the-badge&logo=github)](https://github.com/Anandsavarn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/)
 
 <br/>
